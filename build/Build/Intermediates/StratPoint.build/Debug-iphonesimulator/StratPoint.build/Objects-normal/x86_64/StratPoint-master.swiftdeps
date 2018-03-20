@@ -1,9 +1,0 @@
-version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
-options: "cf67fe858d93201389b94169ea5d0244"
-build_time: [1521543934, 852831000]
-inputs:
-  "/Users/bernard/Desktop/Bernard/Xcode App/StratPoint/StratPoint/Controller/AppDelegate.swift": [1521543933, 0]
-  "/Users/bernard/Desktop/Bernard/Xcode App/StratPoint/StratPoint/Controller/DetailedMovieController.swift": [1521543779, 0]
-  "/Users/bernard/Desktop/Bernard/Xcode App/StratPoint/StratPoint/Model/Movies.swift": [1521513107, 0]
-  "/Users/bernard/Desktop/Bernard/Xcode App/StratPoint/StratPoint/Controller/HomeVC.swift": [1521543758, 0]
-  "/Users/bernard/Desktop/Bernard/Xcode App/StratPoint/StratPoint/View/MovieCell.swift": [1521525028, 0]
